@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalivas-Nikolaos
-- 👀 I’m interested in Computer Science, specifically at Machine-Learning and Block-Chains.
+- 👀 I’m interested in Computer Science, specifically at Machine-Learning.
 - 🌱 I’m currently learning python with Machine-Learning.
 - 💞️ I’m looking to collaborate on with Companies or individuals for cultivate my team spirit, my researcher skills and of course my knowledge.
 - 📫 You can reach me on kalivasnikolaos1995@gmail.com
